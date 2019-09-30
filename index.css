@@ -1,0 +1,76 @@
+body {
+    background-color: rgba(99, 99, 99, 0.966);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.NavBar {
+    background-color:black;
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+}
+.NavLink {
+    background-color: black;
+    color: white;
+   
+}
+.NavBar li{
+    list-style-type: none;
+    display: inline;
+}
+.NavLink:hover{
+    color:blue;
+}
+.General{
+    padding-top: 30px;
+}
+.table tr th {
+    border: 2px solid gray;
+    text-align: left;
+}
+
+.table{
+    margin-top: 0px;
+    padding-top:0px;
+    
+}
+.table-title {
+    font-size: 24px;
+    text-decoration: underline;
+    margin-bottom:0px;
+    padding-bottom:0px;
+    padding-top: 20px;
+}
+em{
+    text-decoration: underline;
+}
+.Ron-swanson-video{
+    margin:auto;
+    width: 50%;
+
+}
+.The-Ron-Swanson{
+    font-size: 24px;
+    text-align: center;
+}
+
+#Extra{
+    padding-top:200px;
+    padding-bottom: 300px;
+    margin:auto;
+    width:35%;
+}
+.Contact-Form{
+    font-size: 20px;
+    text-decoration: underline;
+    text-shadow: 1px 1px rgb(179, 177, 177);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.submit{
+    height: 20px;
+    width: 100px;
+}
+.submit:hover{
+    background-color: aqua;
+}
