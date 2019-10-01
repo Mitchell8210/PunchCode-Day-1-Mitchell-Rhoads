@@ -23,6 +23,10 @@ body {
 }
 .General{
     padding-top: 30px;
+
+}
+.General li{
+    list-style-type: none;
 }
 .table tr th {
     border: 2px solid gray;
